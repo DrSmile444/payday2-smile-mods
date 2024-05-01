@@ -1,0 +1,795 @@
+08:37:11 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe" -NewCPU
+08:37:11 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+08:37:11 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 0 milliseconds with 0 cache misses
+08:37:11 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+08:37:11 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Loading module BeardLib/AssetLoader
+08:37:11 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+08:37:12 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272765 files in 1535 ms
+08:37:14 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+08:37:14 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+08:37:14 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+08:37:14 AM Lua: [INFO] [BLT] Removing log: 2024_04_25_log.txt
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+08:37:14 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+08:37:14 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+08:37:14 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+08:37:14 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+08:37:14 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+08:37:14 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+08:37:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+08:37:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+08:37:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+08:37:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+08:37:18 AM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+08:37:18 AM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+08:37:18 AM Lua: Poco:Init
+08:37:18 AM Lua: Locale EN loaded
+08:37:23 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+08:37:23 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SimpleModUpdater_33.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Monkeepers_87.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Iter_200.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoDuplicatedBullets_9.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/9rjhwu9qejkmt0e/meta.json?raw=1
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/PleaseGoThere_32.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SawHelper_2.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/GoonmodCustomWaypoints_49.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/BagContour_32.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MrDrFantastic_6.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FadingContour_28.zip
+08:37:24 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json
+08:37:24 AM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+08:37:25 AM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+08:37:25 AM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+08:37:26 AM Lua: [INFO] [Updates] Received update data for 'CTH'
+08:37:26 AM Lua: [INFO] [Updates] Comparing hash data for 'CTH':
+Server: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+ Local: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+08:37:27 AM Lua: [INFO] [Updates] Received update data for 'PocoHUD3'
+08:37:38 AM Lua: [INFO] [BLT] Performing save...
+08:37:47 AM Lua: [INFO] [BLT] Performing save...
+08:38:48 AM Lua: [INFO] [BLT] Performing save...
+08:38:49 AM Lua: [INFO] [BLT] Performing save...
+08:54:06 AM Lua: [INFO] [BLT] Performing save...
+08:54:09 AM Lua: [INFO] [BLT] Performing save...
+08:54:15 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:44) CURL CLOSED
+09:10:43 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe" -NewCPU
+09:10:43 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+09:10:43 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 0 milliseconds with 0 cache misses
+09:10:43 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+09:10:44 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Loading module BeardLib/AssetLoader
+09:10:44 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:10:44 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272765 files in 259 ms
+09:10:46 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+09:10:46 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:10:46 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:10:46 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:10:46 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:10:46 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:10:46 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:10:46 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:10:46 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:10:49 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+09:10:49 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+09:10:49 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+09:10:49 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+09:10:49 AM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+09:10:49 AM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+09:10:49 AM Lua: Poco:Init
+09:10:49 AM Lua: Locale EN loaded
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SimpleModUpdater_33.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Monkeepers_87.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Iter_200.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoDuplicatedBullets_9.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/9rjhwu9qejkmt0e/meta.json?raw=1
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/PleaseGoThere_32.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SawHelper_2.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/GoonmodCustomWaypoints_49.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/BagContour_32.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MrDrFantastic_6.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FadingContour_28.zip
+09:10:51 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json
+09:10:51 AM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+09:10:51 AM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+09:10:51 AM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+09:10:51 AM Lua: [INFO] [Updates] Received update data for 'CTH'
+09:10:51 AM Lua: [INFO] [Updates] Comparing hash data for 'CTH':
+Server: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+ Local: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+09:10:52 AM Lua: [INFO] [Updates] Received update data for 'PocoHUD3'
+09:11:22 AM Lua: [INFO] [BLT] Performing save...
+09:11:22 AM Lua: [INFO] [BLT] Performing save...
+09:11:54 AM Lua: [INFO] [BLT] Performing save...
+09:12:17 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:44) CURL CLOSED
+09:12:42 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe" -NewCPU
+09:12:42 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+09:12:42 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 0 milliseconds with 0 cache misses
+09:12:42 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+09:12:43 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Loading module BeardLib/AssetLoader
+09:12:43 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:12:43 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272765 files in 262 ms
+09:12:45 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+09:12:45 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:12:45 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:12:45 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:12:45 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:12:45 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:12:45 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:12:45 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:12:45 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:12:47 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+09:12:47 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+09:12:47 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+09:12:47 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+09:12:47 AM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+09:12:47 AM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+09:12:47 AM Lua: Poco:Init
+09:12:47 AM Lua: Locale EN loaded
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SimpleModUpdater_33.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Monkeepers_87.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Iter_200.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoDuplicatedBullets_9.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/9rjhwu9qejkmt0e/meta.json?raw=1
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/PleaseGoThere_32.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SawHelper_2.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/GoonmodCustomWaypoints_49.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/BagContour_32.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MrDrFantastic_6.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FadingContour_28.zip
+09:12:49 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json
+09:12:49 AM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+09:12:49 AM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+09:12:49 AM Lua: [INFO] [Updates] Received update data for 'CTH'
+09:12:49 AM Lua: [INFO] [Updates] Comparing hash data for 'CTH':
+Server: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+ Local: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+09:12:49 AM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+09:12:54 AM Lua: [INFO] [Updates] Received update data for 'PocoHUD3'
+09:12:59 AM Lua: [INFO] [BLT] Performing save...
+09:13:01 AM Lua: [INFO] [BLT] Performing save...
+09:13:27 AM Lua: [INFO] [BLT] Performing save...
+09:13:30 AM Lua: [INFO] [BLT] Performing save...
+09:21:29 AM Lua: [INFO] [BLT] Performing save...
+09:21:34 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:44) CURL CLOSED
+09:21:39 AM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe" -NewCPU
+09:21:39 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+09:21:39 AM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 0 milliseconds with 0 cache misses
+09:21:39 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+09:21:39 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Register tweak: 1613ea9b9e70c665.d18c5db57c4aa500
+09:21:39 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Register tweak: ea69cebc486c1ba7.0a6ee76b5ce201b9
+09:21:39 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Loading module BeardLib/AssetLoader
+09:21:39 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:21:39 AM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272765 files in 259 ms
+09:21:41 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] XML-Tweaking (DB) Bundle File ea69cebc486c1ba7.0a6ee76b5ce201b9
+09:21:41 AM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] XML-Tweaking (DB) Bundle File 1613ea9b9e70c665.d18c5db57c4aa500
+09:21:42 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+09:21:42 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:21:42 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:21:42 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:21:42 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:21:42 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:21:42 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:21:42 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:21:42 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:21:45 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+09:21:45 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+09:21:45 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+09:21:45 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+09:21:45 AM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+09:21:45 AM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+09:21:45 AM Lua: Poco:Init
+09:21:45 AM Lua: Locale EN loaded
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/27112/version
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SimpleModUpdater_33.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Monkeepers_87.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Iter_200.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoDuplicatedBullets_9.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/9rjhwu9qejkmt0e/meta.json?raw=1
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/PleaseGoThere_32.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SawHelper_2.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/GoonmodCustomWaypoints_49.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/BagContour_32.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MrDrFantastic_6.zip
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json
+09:21:47 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FadingContour_28.zip
+09:21:47 AM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+09:21:47 AM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+09:21:47 AM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+09:21:47 AM Lua: [INFO] [Updates] Received update data for 'CTH'
+09:21:47 AM Lua: [INFO] [Updates] Comparing hash data for 'CTH':
+Server: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+ Local: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+09:21:49 AM Lua: [INFO] [Updates] Received update data for 'PocoHUD3'
+09:22:02 AM Lua: [INFO] [BLT] Performing save...
+09:22:28 AM Lua: [INFO] [BLT] Performing save...
+09:22:30 AM Lua: [INFO] [BLT] Performing save...
+09:22:54 AM Lua: [INFO] [BLT] Performing save...
+09:22:56 AM Lua: [INFO] [BLT] Performing save...
+09:23:02 AM Lua: [INFO] [BLT] Performing save...
+09:23:03 AM Lua: [INFO] [BLT] Performing save...
+09:23:20 AM Lua: [INFO] [BLT] Performing save...
+09:23:24 AM Lua: [INFO] [BLT] Performing save...
+09:23:27 AM Lua: [INFO] [BLT] Performing save...
+09:28:07 AM Lua: [INFO] [BLT] Performing save...
+09:28:17 AM Lua: [INFO] [BLT] Performing save...
+09:28:26 AM Lua: [INFO] [BLT] Performing save...
+09:28:27 AM Lua: [INFO] [BLT] Performing save...
+09:28:44 AM Lua: [INFO] [BLT] Performing save...
+09:40:43 AM Lua: [INFO] [BLT] Performing save...
+09:41:52 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:41:52 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:41:52 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:41:52 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:41:52 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:41:52 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:41:52 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:41:52 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:41:52 AM FATAL ERROR:  (C:\projects\payday2-superblt\src\InitiateState.cpp:300) cannot open mods/Unlimited Pagers/Hooks/groupaistatebase.lua: No such file or directory
+
+09:41:52 AM FATAL ERROR:  (C:\projects\payday2-superblt\src\InitiateState.cpp:300) cannot open mods/Unlimited Pagers/Hooks/copbrain.lua: No such file or directory
+
+09:41:53 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+09:41:53 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+09:41:53 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+09:41:53 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+09:41:53 AM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+09:41:53 AM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+09:41:54 AM Lua: Poco:Init
+09:41:54 AM Lua: Locale EN loaded
+09:54:47 AM Lua: [INFO] [BLT] Performing save...
+09:54:51 AM Lua: [INFO] [BLT] Performing save...
+09:59:17 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:59:17 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:59:17 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:59:17 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:59:18 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+09:59:18 AM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+09:59:18 AM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'No Body Bags Required (Lite)'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Iter'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Silent Assassin'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Straight To Main Menu'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'PocoHud3'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Assault States'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Better Bots'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Cable Ties and Hostages'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'Contour Style Selector'
+09:59:18 AM Lua: [INFO] [BLT] Setting up mod 'unlimited pagers'
+09:59:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+09:59:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+09:59:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+09:59:18 AM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+09:59:18 AM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+09:59:18 AM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+09:59:18 AM Lua: Poco:Init
+09:59:18 AM Lua: Locale EN loaded
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/27112/version
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/9rjhwu9qejkmt0e/meta.json?raw=1
+09:59:18 AM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://github.com/theokrueger-mods/pd2-cableties-hostages/raw/master/meta.json
+09:59:19 AM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+09:59:19 AM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+09:59:19 AM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+09:59:19 AM Lua: [INFO] [Updates] Received update data for 'CTH'
+09:59:19 AM Lua: [INFO] [Updates] Comparing hash data for 'CTH':
+Server: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+ Local: 4c5fd0015843d5a627714e541e9b37666b4935d615d0725b9f5619bdbdef84c4
+09:59:20 AM Lua: [INFO] [Updates] Received update data for 'PocoHUD3'
+10:00:07 AM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:44) CURL CLOSED

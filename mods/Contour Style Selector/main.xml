@@ -1,0 +1,5 @@
+<table name="Contour Style Selector" color="Color(0.6, 0.9, 0.1)">
+	<AssetUpdates id="27112" version="1.0.0" provider="modworkshop"/>
+
+	<Localization directory="localization" default="english.txt"/>
+</table>

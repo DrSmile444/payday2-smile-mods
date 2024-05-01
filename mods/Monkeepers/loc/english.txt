@@ -1,0 +1,17 @@
+{
+	"mkp_options_menu_title" : "Monkeepers",
+	"mkp_options_menu_desc"  : "Enable/disable its features per level.",
+
+	"mkp_options_keybind_delete_routes_title" : "Delete all routes",
+	"mkp_options_keybind_delete_routes_desc"  : "Host can cancel all established routes.",
+
+	"mkp_options_disable_catch_thrown_bags_title" : "Prevent bots to catch thrown bags",
+	"mkp_options_disable_catch_thrown_bags_desc"  : "",
+
+	"mkp_behaviour_disabled" : "None",
+	"mkp_behaviour_id" : "Same bag contents",
+	"mkp_behaviour_type" : "Same bag weight",
+	"mkp_behaviour_any" : "All",
+
+	"mkp_options_behaviour_desc" : "Define which bags bots will carry based on what player picks up.\nLevel identifier: $LEVEL"
+}

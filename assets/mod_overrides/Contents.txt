@@ -1,0 +1,140 @@
+8th Anniversary Items
+Will highlight the anniversary statues (multiple heists)
+Note: The cocktail drink statue highlights only it's base
+
+Animal Posters
+Will highlight the missing animal posters in Heat Street
+Note: Ignore white highlighted signs, animal posters are highlighted in yellow
+
+Arbiter Grenade Launcher Parts
+Will highlight the keys and briefcases for the arbiter grenade launcher (multiple heists)
+
+Bank Managers
+Will highlight all bank managers (multiple heists)
+Note: Some heists have NPC with bank manager skins that are useless, they'll also get highlighted
+
+Barricade Planks
+Will highlight all kinds of barricade planks (multiple heists)
+Note: The white planks in Goat Simulator day 2 have been replaced with a brown texture due to a bug
+
+Big Bottle
+Will highlight the big whiskey bottle on Biker Heist
+
+Buluc's Mansion Items And Clues
+Will highlight all relevant stuff on Buluc's Mansion like fertilizer bomb items, sanctum puzzle items, etc
+
+Christmas Gifts
+Will highlight all presents in White Xmas
+
+Churros
+Will highlight the hidden churro in Buluc's Mansion
+Note: This will also highlight the spiked churro asset in Breakfast In Tijuana
+
+Code Golden Laptops
+Will highlight the code laptops in Golden Grin and Hostile Takeover
+
+Crowbars
+Will hightlight all crowbars (multiple heists)
+Note: The crowbars in Dragon Heist won't get highlighted by the mod since they get highlighted automatically when someone gets near them
+
+Dragon Vases
+Will highlight the hidden dragon vases in Ukrainian Prisoner
+Note: Some may require you to be closer or not behind certain walls to be able to get highlighted
+
+Enemy Flashbangs
+Will highlight all enemy flashbrang grenades with a purple color
+
+Engine Clues
+Will highlight the clipboard and notebook clues for the right engine in Big Oil day 2
+Note: Some may require you to be closer or not behind certain walls to be able to get highlighted
+
+Enter the Gungeon Statues
+Will highlight all kinds of statues from Enter The Gungeon (multiple heists)
+Note: Some may require you to be closer or not behind certain walls to be able to get highlighted, this will also highlight your safehouse trophys
+
+Flamingos
+Will highlight the hidden flamingos in Scarface Mansion
+Note: Will also highlight the flamingos in your safehouse
+
+Gage Packages
+Will highlight all hidden gage packages (multiple heists)
+
+Gas Cans
+Will highlight all orange gas cans (multiple heists)
+
+Giant Toothbrush
+Will highlight the giant toothbrush loot in Panic Room
+Note: Will also highlight the easter egg in Big Bank
+
+Handcuffs
+Will highlight the handcuffs in Green Bridge
+
+Horseshoes
+Will highlight the horseshoes in Midland Ranch
+Note: Some may require you to be closer or not behind certain walls to be able to get highlighted
+
+Hotline Miami Mobsters
+Will highlight the russian gangsters in Hotline Miami
+
+Keycards
+Will highlight all kinds of keycards (multiple heists)
+Note: Certain cards are not highlighted by the mod because the game highlight them automatically when someone gets too close
+
+Locke
+Will highlight Locke in Hell's Island
+
+Medals
+Will highlight all medals in Breakfast In Tijuana
+
+Meth Ingredients
+Will highlight all meth ingredients (multiple heists)
+
+Midland Ranch Crates
+Will highlight weapon parts shipping crates
+note: Has the same highlight color as the common shipping crates (for this heist they're always empty)
+
+Murkywater Uniforms
+Will highlight the backpacks in Border Crossing
+Note: Will also highlight the backpacks at the secret of The White House
+
+Paintings
+Will highlight all paintings avaliable to steal in Art Gallery and Framing Frame day 1
+
+Pumpkin
+Will highlight the secret pumpkin in Prison Nightmare and Cursed Kill Room
+Note: Some spawns may require you to be closer or not behind certain walls to be able to get highlighted, this will also highlight your safehouse trophy
+
+Red Buttons
+Will highlight all red buttons (multiple heists but mainly used for Ukrainian Prisoner)
+
+Rings
+Will highlight the rings in Birth Of Sky
+
+Sangres Mega Mask Gifts
+Will highlight all mega sangres masks presents in Border Crossing, Breakfast In Tijuana, San Martín Bank and Buluc's Mansion
+Note: If you can't find one in San Martín Bank then you have to look inside a white van parked outside for it to get highlighted
+
+Seaguls
+Will highlight all seaguls in Crude Awakening heist
+
+Security Cameras
+Will highlight both normal and titan cctv cameras (multiple heists)
+Note :Some may require you to be closer or not behind certain walls to be able to get highlighted
+
+Sheriff Star Items
+Will highlight the star mould and anvil hammer in Midland Ranch
+
+Shipping Crates
+Will highlight all shipping crates, including the voting machine crates Election Day - Swing Vote
+
+Silver Briefcase
+Will highlight the objective briefcase in Boiling Point and Brooklyn 10-10 heists
+
+Stapler
+Will highlight the stapler in Breakin' Feds
+
+The Lost Tapes
+Will highlight both keycards and the safe containting the lost tapes
+
+Turtle
+Will highlight the turtle in Heat Street

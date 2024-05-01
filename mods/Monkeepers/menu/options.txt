@@ -1,0 +1,30 @@
+{
+	"menu_id" : "mkp_options_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "mkp_options_menu_title",
+	"description" : "mkp_options_menu_desc",
+	"focus_changed_callback" : "MonkeepersChangedFocus",
+	"items" : [
+		{
+			"type" : "keybind",
+			"id" : "mkp_keybind_delete_all_routes",
+			"title" : "mkp_options_keybind_delete_routes_title",
+			"description" : "mkp_options_keybind_delete_routes_desc",
+			"keybind_id" : "monkeepers_delete_all_routes",
+			"run_in_game" : true,
+			"func" : "MonkeepersDeleteAllRoutes"
+		},
+		{
+			"type" : "toggle",
+			"id" : "disable_catch_thrown_bags",
+			"title" : "mkp_options_disable_catch_thrown_bags_title",
+			"description" : "mkp_options_disable_catch_thrown_bags_desc",
+			"callback" : "MonkeepersToggleHub",
+			"value" : "disable_catch_thrown_bags"
+		},
+		{
+			"type" : "divider",
+			"size" : 16
+		}
+	]
+}

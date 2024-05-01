@@ -1,0 +1,19 @@
+{	"Color":{
+	"color_fadetask":"Color(1, 0.73000001907349, 0.80000001192093, 0.10999999940395)",
+	"color_anticipationtask":"Color(1, 0.73000001907349, 0.80000001192093, 0.10999999940395)",
+	"color_sustaintask":"Color(1, 0.93000000715256, 0.5, 0.5)",
+	"color_controltask":"Color(1, 1, 1, 1)",
+	"color_buildtask":"Color(1, 1, 1, 0)"
+},	"Enabled":{
+	"enable_build_task":true,
+	"enable_sustain_task":true,
+	"enable_anticipation_task":true,
+	"enable_control_task":true,
+	"enable_fade_task":true
+},	"Textlist":{
+	"textlist_fade_task":1,
+	"textlist_control_task":1,
+	"textlist_build_task":1,
+	"textlist_anticipation_task":1,
+	"textlist_sustain_task":1
+}}

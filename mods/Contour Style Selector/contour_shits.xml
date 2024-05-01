@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<tweaks>
+	<tweak version="2" name="core/shaders/post_processor" extension="post_processor">
+		<search>
+			<?xml version="1.0" encoding="utf-8" ?>
+			<post_processor/>
+		</search>
+
+		<target mode="attach">
+			<effect name="contour_off">
+			</effect>
+
+			<effect name="contour_default">
+				<combiner diffuse_texture="contour_target" dst="bb" render_template="post_contour_mask" depth_stencil_target="scene_depth_stencil"/>
+			</effect>
+
+			<effect name="contour_thick">
+				<combiner diffuse_texture="contour_target" dst="low_target_1" render_template="post_upscale"/>
+				<combiner diffuse_texture="low_target_1" dst="low_target_1" render_template="post_SSAO_blur"/>
+				<combiner diffuse_texture="low_target_1" dst="bb" render_template="post_contour_mask" depth_stencil_target="scene_depth_stencil"/>
+			</effect>
+
+			<effect name="contour_pixel">
+				<combiner diffuse_texture="contour_target" dst="low_target_1" render_template="post_color_grading:CAMERA"/>
+				<combiner diffuse_texture="low_target_1" dst="bb" render_template="post_contour_mask" depth_stencil_target="scene_depth_stencil"/>
+			</effect>
+		</target>
+	</tweak>
+
+	<tweak version="2" name="core/shaders/post_processor" extension="post_processor">
+		<search>
+			<?xml version="1.0" encoding="utf-8" ?>
+			<post_processor/>
+			<effect name="bloom_combine"/>
+			<defined platform="PS3 X360"/>
+			<combiner render_template="post_contour_mask"/>
+		</search>
+
+		<target mode="replace">
+		</target>
+	</tweak>
+
+	<tweak version="2" name="core/settings/layers" extension="diesel_layers">
+		<search>
+			<diesel_layers/>
+			<layer_setup name="world"/>
+		</search>
+
+		<target mode="attach">
+			<post_processor name="contour_post" file="core/shaders/post_processor" default_effect="contour_default" target="back_buffer" statistics_scope="post_processor"/>
+		</target>
+	</tweak>
+</tweaks>

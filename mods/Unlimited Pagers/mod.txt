@@ -1,0 +1,15 @@
+{
+	"name": "unlimited pagers",
+	"description": "this mod makes it so that the bluff chance is always 100%, so no matter how many pagers you have left you can always answer pagers with no consciences",
+	"author": "SlimeySapphire",
+	"version": "1",
+	"blt_version": 2,
+	"image": "71+ir4saViL._AC_SL1500_.jpg",
+	"hooks": [
+		{ "hook_id": "lib/tweak_data/playertweakdata", "script_path": "Hooks/playertweakdata.lua" },
+		{ "hook_id": "lib/units/enemies/cop/copbrain", "script_path": "Hooks/copbrain.lua" },
+		{ "hook_id": "lib/units/enemies/cop/copdamage", "script_path": "Hooks/copdamage.lua" },
+		{ "hook_id": "lib/managers/group_ai_states/groupaistatebase", "script_path": "Hooks/groupaistatebase.lua" },
+		{ "hook_id": "lib/network/matchmaking/networkmatchmakingsteam", "script_path": "Hooks/networkmatchmakingsteam.lua" },
+	]
+}

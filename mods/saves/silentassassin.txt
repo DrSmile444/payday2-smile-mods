@@ -1,0 +1,1 @@
+{"num_pagers_per_player":999,"pager_detection_threshold":1,"pager_bonus_enabled":false,"matchmaking_filter":1,"num_pagers":999,"enabled":true,"stealth_kill_enabled":true}

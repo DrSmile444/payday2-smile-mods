@@ -1,0 +1,1 @@
+{"disable_catch_thrown_bags":false,"framing_frame_2":"id","nail":false}

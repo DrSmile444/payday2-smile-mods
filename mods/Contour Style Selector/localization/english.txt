@@ -1,0 +1,9 @@
+{
+	"menu_contour" : "Contour Style",
+	"menu_contour_help" : "Change the contour style used throughout the game.",
+
+	"menu_contour_off" : "Off",
+	"menu_contour_default" : "Default",
+	"menu_contour_thick" : "Thick",
+	"menu_contour_pixel" : "Pixel"
+}

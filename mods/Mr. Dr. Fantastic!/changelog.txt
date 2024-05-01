@@ -1,0 +1,17 @@
+Revision 6:
+- added chinese translation by LR_Daring
+
+Revision 5:
+- changed update system to Simple Mod Updater
+
+Revision 4:
+- added thai translation by NewPJzuza
+
+Revision 3:
+- added french translation
+
+Revision 2:
+- fixed a warning
+
+Revision 1:
+- initial release

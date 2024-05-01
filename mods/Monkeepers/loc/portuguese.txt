@@ -1,0 +1,17 @@
+{
+	"mkp_options_menu_title" : "Monkeepers",
+	"mkp_options_menu_desc"  : "Ativa/desativa os recursos de acordo com o nível.",
+
+	"mkp_options_keybind_delete_routes_title" : "Deletar todas as rotas",
+	"mkp_options_keybind_delete_routes_desc"  : "O Host pode cancelar todas as rotas estabelecidas.",
+
+	"mkp_options_disable_catch_thrown_bags_title" : "Previnir que os bots peguem bolsas arremessadas",
+	"mkp_options_disable_catch_thrown_bags_desc"  : "",
+
+	"mkp_behaviour_disabled" : "Nada",
+	"mkp_behaviour_id" : "Mesmo tipo de loot",
+	"mkp_behaviour_type" : "Bolsas de mesmo peso",
+	"mkp_behaviour_any" : "Tudo",
+
+	"mkp_options_behaviour_desc" : "Define quais bolsas os bots carregarão de acordo com o que o jogador pega.\nSelecionar Heist: $LEVEL"
+}

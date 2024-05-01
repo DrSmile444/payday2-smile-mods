@@ -1,0 +1,7 @@
+{
+	"name" : "Contour Style Selector",
+	"description" : "Change your contour style just like colour grading!",
+	"author" : "Cpone",
+	"color" : "153 230 26",
+	"blt_version" : 2
+}

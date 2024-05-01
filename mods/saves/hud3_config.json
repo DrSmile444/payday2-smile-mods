@@ -1,0 +1,11 @@
+{
+    "performance": {
+                        "blockBloodDecals": true,
+                       "blockBulletDecals": true,
+                            "blockCorpses": true,
+                            "blockHelmets": true,
+                          "blockMagazines": true,
+                            "blockShields": true,
+                       "reduceShotgunSpam": true
+                   }
+}

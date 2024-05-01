@@ -1,0 +1,17 @@
+{
+	"mkp_options_menu_title" : "AI队友自动运包",
+	"mkp_options_menu_desc" : "启用/禁用MOD对各个地图的功能",
+
+	"mkp_options_keybind_delete_routes_title" : "移除所有路线",
+	"mkp_options_keybind_delete_routes_desc" : "删除所有已被设立的路线[仅主机]",
+
+	"mkp_options_disable_catch_thrown_bags_title" : "忽略已扔出的战利品",
+	"mkp_options_disable_catch_thrown_bags_desc" : "",
+
+	"mkp_behaviour_disabled" : "禁用",
+	"mkp_behaviour_id" : "相同类型",
+	"mkp_behaviour_type" : "相同重量",
+	"mkp_behaviour_any" : "全部",
+
+	"mkp_options_behaviour_desc" : "AI会根据你设置决定运输哪些战利品\n劫案代码: $LEVEL"
+}
