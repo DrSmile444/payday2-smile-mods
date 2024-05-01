@@ -1,0 +1,1 @@
+{"show_distance":true,"include_bots_in_points_of_interest":true,"always_show_others_waypoints":false,"include_players_in_points_of_interest":true,"always_show_my_waypoint":true,"include_corpses_in_points_of_interest":true,"include_hostages_in_points_of_interest":true,"include_lootbags_in_points_of_interest":true}

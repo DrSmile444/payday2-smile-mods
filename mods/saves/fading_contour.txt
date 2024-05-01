@@ -1,0 +1,1 @@
+{"fade_from":1,"override_hvta_color":true,"hvtb_default_color":[1,0.2,0],"hvta_far_default_color":[1,0,1],"override_hvtb_color":true,"hvta_near_default_color":[1,0.2,0],"fade_method":2}
